@@ -1,9 +1,13 @@
 /**
  * Hello Method
+<<<<<<< HEAD
  * M1 plus M2 Branch
  * M2 Branch
 <<<<<<< HEAD
 =======
+=======
+ * M2 Branch
+>>>>>>> cb5ec27b7d49f70ff5308c6ed68e5fd1dbe2dbe2
  * M1 Branch
  * M1 and M3
 >>>>>>> file m1 m2 changes n
